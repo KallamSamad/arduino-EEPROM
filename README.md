@@ -5,4 +5,4 @@ This project uses an Arduino to control an LED's brightness with a potentiometer
  ## Video Demonstration
 
 Click the thumbnail below:
-[![Arduino LED demonstration](thumbnail.png)](https://drive.google.com/file/d/1V6Z6Hrp74-8eyYag9Iqdp90533Z9zO08/view?usp=sharing)
+[![Arduino LED demonstration](thumbnail2.png)](https://drive.google.com/file/d/1V6Z6Hrp74-8eyYag9Iqdp90533Z9zO08/view?usp=sharing)
